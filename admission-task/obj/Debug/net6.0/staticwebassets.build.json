@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "0W/OMxKD02Y3b7nwSAtYXE4Lxkex6z7mboVVPWyOnlo=",
+  "Source": "admission-task",
+  "BasePath": "_content/admission-task",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "admission-task\\wwwroot",
+      "Source": "admission-task",
+      "ContentRoot": "F:\\study\\admission-task\\admission-task\\wwwroot\\",
+      "BasePath": "_content/admission-task",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\study\\admission-task\\admission-task\\wwwroot\\images\\1e034019-221d-49a7-8fba-db9f31a69776.jpg",
+      "SourceId": "admission-task",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\study\\admission-task\\admission-task\\wwwroot\\",
+      "BasePath": "_content/admission-task",
+      "RelativePath": "images/1e034019-221d-49a7-8fba-db9f31a69776.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1e034019-221d-49a7-8fba-db9f31a69776.jpg"
+    },
+    {
+      "Identity": "F:\\study\\admission-task\\admission-task\\wwwroot\\images\\1e034019-221d-49a7-8fba-db9f31a69776.png",
+      "SourceId": "admission-task",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\study\\admission-task\\admission-task\\wwwroot\\",
+      "BasePath": "_content/admission-task",
+      "RelativePath": "images/1e034019-221d-49a7-8fba-db9f31a69776.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1e034019-221d-49a7-8fba-db9f31a69776.png"
+    }
+  ]
+}
